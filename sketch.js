@@ -84,6 +84,6 @@ function mouseDragged(){
 }
 
 function mouseReleased(){
-  rope.vanish();
+  rope.fly();
   gameState = "launched";
 }
