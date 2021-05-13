@@ -15,7 +15,7 @@ class Rope {
     this.rope.bodyA = body;
   }
 
-  vanish() {
+  fly() {
     this.rope.bodyA = null;
   }
 
